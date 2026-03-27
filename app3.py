@@ -1,5 +1,5 @@
 import streamlit as st
-import mojito
+import Koreainvestment as mojito
 import pandas as pd
 import time
 
